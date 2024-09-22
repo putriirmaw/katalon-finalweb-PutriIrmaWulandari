@@ -1,0 +1,8 @@
+{"testCaseName":"Test Cases/create-new-acc","testCaseId":"Test Cases/create-new-acc","iterationVariableName":"","bindedValues":{"password":"\u0027Password123\u0027","email":"\u0027email1@gmail.com\u0027","username":"\u0027user123\u0027"}}
+{"testCaseName":"Test Cases/create-new-acc","testCaseId":"Test Cases/create-new-acc","iterationVariableName":"","bindedValues":{"password":"\u0027Dummy123\u0027","email":"\u0027dummy@gmail.com\u0027","username":"\u0027userdummy\u0027"}}
+{"testCaseName":"Test Cases/create-new-acc","testCaseId":"Test Cases/create-new-acc","iterationVariableName":"","bindedValues":{"password":"\u0027Demo12345\u0027","email":"\u0027demo@gmail.com\u0027","username":"\u0027demouser\u0027"}}
+{"testCaseName":"Test Cases/create-new-acc","testCaseId":"Test Cases/create-new-acc","iterationVariableName":"","bindedValues":{"password":"\u0027Abcdef445\u0027","email":"\u0027abc@gmail.com\u0027","username":"\u0027abcdef\u0027"}}
+{"testCaseName":"Test Cases/Login-user","testCaseId":"Test Cases/Login-user","iterationVariableName":"","bindedValues":{"password":"\u0027Password123\u0027","username":"\u0027user123\u0027"}}
+{"testCaseName":"Test Cases/Login-user","testCaseId":"Test Cases/Login-user","iterationVariableName":"","bindedValues":{"password":"\u0027Dummy123\u0027","username":"\u0027userdummy\u0027"}}
+{"testCaseName":"Test Cases/Login-user","testCaseId":"Test Cases/Login-user","iterationVariableName":"","bindedValues":{"password":"\u0027Demo12345\u0027","username":"\u0027demouser\u0027"}}
+{"testCaseName":"Test Cases/Login-user","testCaseId":"Test Cases/Login-user","iterationVariableName":"","bindedValues":{"password":"\u0027Abcdef445\u0027","username":"\u0027abcdef\u0027"}}

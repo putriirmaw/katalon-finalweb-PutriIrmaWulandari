@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>order-by-our-product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb49dc76-f8ce-49ae-bb06-99e17e66dd2c</testCaseGuid>
+</TestCaseEntity>

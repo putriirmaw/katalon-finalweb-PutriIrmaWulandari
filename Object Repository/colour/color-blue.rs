@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>color-blue</name>
+   <tag></tag>
+   <elementGuidId>cb5af9ad-6d97-498e-8152-2a8eecf8fcb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'rabbit' and @title = 'GRAY']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rabbit</value>
+      <webElementGuid>5d3a4d3d-4185-4795-b733-1f99ffc1f15e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>GRAY</value>
+      <webElementGuid>19f298d8-48c6-481b-9324-e81b12c83513</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

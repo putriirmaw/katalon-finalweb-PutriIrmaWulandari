@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>payment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bcfbc92-04d3-446c-8d9a-f5afccfea048</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>136d5c29-d5b6-4093-b234-fd3a6acf4750</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d84a0fcd-96ec-4fc4-a155-c5fbe30d79c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('user')</defaultValue>
+      <description></description>
+      <id>136d5c29-d5b6-4093-b234-fd3a6acf4750</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('user')</defaultValue>
+      <description></description>
+      <id>d84a0fcd-96ec-4fc4-a155-c5fbe30d79c2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
